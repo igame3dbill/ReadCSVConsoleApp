@@ -1,0 +1,5 @@
+c:\users\amy griffin\documents\visual studio 2017\Projects\ReadCSVConsoleApp\ReadCSVConsoleApp\bin\Debug\ReadCSVConsoleApp.exe.config
+c:\users\amy griffin\documents\visual studio 2017\Projects\ReadCSVConsoleApp\ReadCSVConsoleApp\bin\Debug\ReadCSVConsoleApp.exe
+c:\users\amy griffin\documents\visual studio 2017\Projects\ReadCSVConsoleApp\ReadCSVConsoleApp\bin\Debug\ReadCSVConsoleApp.pdb
+c:\users\amy griffin\documents\visual studio 2017\Projects\ReadCSVConsoleApp\ReadCSVConsoleApp\obj\Debug\ReadCSVConsoleApp.exe
+c:\users\amy griffin\documents\visual studio 2017\Projects\ReadCSVConsoleApp\ReadCSVConsoleApp\obj\Debug\ReadCSVConsoleApp.pdb
